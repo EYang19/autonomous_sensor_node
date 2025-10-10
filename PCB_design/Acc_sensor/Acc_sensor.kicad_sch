@@ -3802,6 +3802,26 @@
 		)
 		(uuid "45ebc920-4e26-4012-b523-8d600ef0bc52")
 	)
+	(text "tbc, calculation needed."
+		(exclude_from_sim no)
+		(at 163.83 174.752 0)
+		(effects
+			(font
+				(size 1.27 1.27)
+			)
+		)
+		(uuid "71bfd7ad-865d-43e1-afa8-29252f760b60")
+	)
+	(text "tbc, Ferrite bead may needed."
+		(exclude_from_sim no)
+		(at 139.954 223.52 0)
+		(effects
+			(font
+				(size 1.27 1.27)
+			)
+		)
+		(uuid "f96955ff-1c83-49e0-adad-33435d9a6e2e")
+	)
 	(junction
 		(at 137.16 184.15)
 		(diameter 0)
@@ -3843,12 +3863,6 @@
 		(diameter 0)
 		(color 0 0 0 0)
 		(uuid "1a0b05f7-bdd2-4951-b4f9-ba9602d81203")
-	)
-	(junction
-		(at 91.44 157.48)
-		(diameter 0)
-		(color 0 0 0 0)
-		(uuid "1b5764cb-171c-4269-9b05-784fd236382b")
 	)
 	(junction
 		(at 76.2 73.66)
@@ -4462,23 +4476,13 @@
 	)
 	(wire
 		(pts
-			(xy 91.44 157.48) (xy 91.44 179.07)
+			(xy 91.44 154.94) (xy 91.44 179.07)
 		)
 		(stroke
 			(width 0)
 			(type default)
 		)
 		(uuid "6acf8e67-5f28-4b3c-89cc-e5674cb14895")
-	)
-	(wire
-		(pts
-			(xy 76.2 157.48) (xy 91.44 157.48)
-		)
-		(stroke
-			(width 0)
-			(type default)
-		)
-		(uuid "6cbaa492-11bd-4205-9b26-5156b1e65f9c")
 	)
 	(wire
 		(pts
@@ -4919,16 +4923,6 @@
 			(type default)
 		)
 		(uuid "d1a4789b-344c-4523-b771-42ccf1dd3b62")
-	)
-	(wire
-		(pts
-			(xy 91.44 154.94) (xy 91.44 157.48)
-		)
-		(stroke
-			(width 0)
-			(type default)
-		)
-		(uuid "d2d41b14-3b49-4e84-8570-aa156fdcfb68")
 	)
 	(wire
 		(pts
@@ -7758,7 +7752,7 @@
 				)
 			)
 		)
-		(property "Value" "R"
+		(property "Value" "22"
 			(at 120.396 214.884 90)
 			(effects
 				(font
@@ -9031,7 +9025,7 @@
 				(justify left)
 			)
 		)
-		(property "Value" "R"
+		(property "Value" "22"
 			(at 125.476 213.106 0)
 			(effects
 				(font
@@ -9477,7 +9471,7 @@
 				)
 			)
 		)
-		(property "Value" "C"
+		(property "Value" "1u"
 			(at 110.49 157.48 90)
 			(effects
 				(font
@@ -9678,7 +9672,7 @@
 				(justify left)
 			)
 		)
-		(property "Value" "R"
+		(property "Value" "22"
 			(at 125.7299 214.63 0)
 			(effects
 				(font
