@@ -1,0 +1,8 @@
+Power management:
+  Fuel Gauge selection:
+  1:MAX17048
+  2:BQ2744
+  3:LC7092(now using)
+Crystal selection:
+  X322540MPB4SI(popular, cheap, can be assembled at JLC)
+
