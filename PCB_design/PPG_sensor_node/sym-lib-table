@@ -1,0 +1,4 @@
+(sym_lib_table
+  (version 7)
+  (lib (name "symlib")(type "KiCad")(uri "/Users/chengyuyang/Documents/autonomous_sensor_node/PCB_design/Acc_sensor/symlib.kicad_sym")(options "")(descr ""))
+)
