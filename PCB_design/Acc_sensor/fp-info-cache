@@ -1,4 +1,4 @@
-26715377586184763
+26731567514219639
 Audio_Module
 Reverb_BTDR-1H
 Digital Reverberation Unit, http://www.belton.co.kr/inc/downfile.php?seq=17&file=pdf (footprint from http://www.uk-electronic.de/PDF/BTDR-1.pdf)
@@ -59352,6 +59352,20 @@ ceramic
 0
 3
 3
+Custom footprint
+Chip Antenna 2450AT18A100
+
+
+0
+2
+2
+Custom footprint
+Untitled
+
+
+0
+0
+0
 Diode_SMD
 D_0201_0603Metric
 Diode SMD 0201 (0603 Metric), square (rectangular) end terminal, IPC-7351 nominal, (Body size source: https://www.vishay.com/docs/20052/crcw0201e3.pdf), generated with kicad-footprint-generator
@@ -106340,13 +106354,6 @@ Varistor
 Varistor_Panasonic_VF
 Panasonic VF series varistor, 6x8mm body, 3.2mm height, https://mediap.industry.panasonic.eu/assets/imported/industrial.panasonic.com/cdbs/www-data/pdf/AWA0000/AWA0000C4.pdf
 Varistor VF
-0
-2
-2
-customfootprint
-Chip Antenna ANT2012
-
-
 0
 2
 2

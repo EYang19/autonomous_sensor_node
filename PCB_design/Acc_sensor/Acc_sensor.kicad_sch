@@ -10703,7 +10703,7 @@
 				)
 			)
 		)
-		(property "Footprint" "customfootprint:Chip Antenna ANT2012"
+		(property "Footprint" "Custom footprint:Chip Antenna 2450AT18A100"
 			(at 356.235 186.69 0)
 			(effects
 				(font
