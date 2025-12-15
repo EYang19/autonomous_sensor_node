@@ -34,5 +34,42 @@ Each sensor node integrates sensing elements, power management, and a microcontr
 
 ## Repository Structure
 
+```text
+.
+├── Datasheet_tech notes/
+│   └── Datasheets and technical notes for key components
+│
+├── PCB_design/
+│   └── Early PCB design files created using KiCad.
+│       This folder contains the initial PCB design iterations
+│       before the project was migrated to EasyEDA.
+│
+├── Final PCB Design using Easy EDA/
+│   └── Finalised PCB schematics and layout designed in EasyEDA.
+│       All later revisions and manufacturing-ready files are
+│       maintained in this directory.
+│
+├── Labbook/
+│   └── Laboratory notes, testing logs, and debugging records
+│
+├── autonomous_sensor_code/
+│   └── PPGtest/
+│       └── Firmware and test code for the PPG sensor node
+│
+├── Idea on components selection
+│   └── Early design notes and rationale for component selection
+│
+├── ppg_processed_data.csv
+│   └── Processed PPG measurement data used for analysis
+│
+├── README.md
+│   └── Project overview and objectives
+│
+├── .gitattributes
+│   └── Git configuration file
+│
+└── .DS_Store
+    └── System file (can be ignored)
+
 
 
